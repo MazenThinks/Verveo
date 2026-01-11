@@ -64,7 +64,7 @@ const Developer = () => {
                             {/* Portfolio Link */}
                             <div className="pt-4">
                                 <a
-                                    href="https://mazenmagdy.com"
+                                    href="https://mazenmagdyy.vercel.app/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="group inline-flex items-center gap-2 text-neutral-400 dark:text-neutral-600 hover:text-neutral-950 dark:hover:text-white transition-all duration-[400ms] ease-out">
