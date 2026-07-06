@@ -1,6 +1,7 @@
 # Verveo
 
 A premium product discovery platform focused on browsing experience and visual clarity.
+https://verveo.vercel.app/
 
 ## Features
 
